@@ -1,0 +1,24 @@
+body{
+    font: 20px arial seriff;
+}
+.navbar{
+    background-color: #5fb404;
+}
+.boxim{
+    margin-left: 70px;
+}
+@media (max-width: 550px) {
+    .boxim{
+        margin-left: 180px;
+    }
+}
+.quem-somos{
+    background-color:#81F781 ;
+}
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+.parceiros{
+    background-color:  #81F781;
+}
