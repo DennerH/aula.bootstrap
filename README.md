@@ -1,2 +1,2 @@
 # aula.bootsrap
-Utilizando framework Bootstrap
+Utilizando framework Bootstrap para criação de um site.
